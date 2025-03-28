@@ -1,0 +1,17 @@
+#unique1 {
+    font-size: 36px;
+    color: blue;
+    font-weight: 500;
+}
+#unique2 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
+.oddnumbers {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: lightcoral;
+}
+.oddnumbers#unique3 {
+    font-size: 24px;
+}
